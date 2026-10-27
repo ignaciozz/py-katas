@@ -1,6 +1,6 @@
-# Lista de Exercícios Python
+# py-katas
 
-Este repositório contém uma coleção de exercícios rápidos para prática da linguagem Python.
+Coleção de katas (exercícios curtos de prática deliberada) em Python.
 
 ## Objetivo
 
