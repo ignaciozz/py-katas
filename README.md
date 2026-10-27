@@ -34,6 +34,7 @@ Coleção de katas (exercícios curtos de prática deliberada) em Python.
 | `lista-frutas.py` | Lista de compras com adição contínua de itens |
 | `dicionarios.py` | Cadastro de dados em dicionário com validação de entrada |
 | `senha.py` | Verificação de senha com repetição até acerto |
+| `numeros-impares.py` | Filtragem de números ímpares em uma lista |
 
 ## Conceitos praticados
 
@@ -41,7 +42,7 @@ Coleção de katas (exercícios curtos de prática deliberada) em Python.
 - Conversão de tipos (`int`, `float`)
 - Operadores aritméticos e de módulo
 - Estruturas condicionais (`if`, `elif`, `else`)
-- Estruturas de repetição (`for`, `while`)
+- Estruturas de repetição (`for`, `while`, `continue`)
 - Manipulação de strings (concatenação, `.lower()`, iteração caractere a caractere, operador `in`)
 - Listas (`list`, `.append()`)
 - Dicionários (`dict`, acesso e atribuição por chave)
