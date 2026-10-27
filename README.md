@@ -33,6 +33,7 @@ Este repositório contém uma coleção de exercícios rápidos para prática da
 | `soma-despesas.py` | Soma de despesas digitadas até o usuário informar zero |
 | `lista-frutas.py` | Lista de compras com adição contínua de itens |
 | `dicionarios.py` | Cadastro de dados em dicionário com validação de entrada |
+| `senha.py` | Verificação de senha com repetição até acerto |
 
 ## Conceitos praticados
 
