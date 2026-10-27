@@ -14,6 +14,38 @@ Este repositório contém uma coleção de exercícios rápidos para prática da
 2. Execute o script em Python.
 3. Modifique e experimente novas variações para aprender mais.
 
+## Exercícios
+
+| Arquivo | Exercício |
+|---|---|
+| `hello-world.py` | Primeiro programa, saída simples no terminal |
+| `saudacao.py` | Entrada de dados e saudação personalizada |
+| `soma.py` | Soma de dois números |
+| `conversor-temperatura.py` | Conversão de Celsius para Fahrenheit |
+| `media.py` | Média de três notas |
+| `par-impar.py` | Verificação de número par ou ímpar |
+| `positivo-negativo.py` | Classificação de número em positivo, negativo ou zero |
+| `nota.py` | Aprovação de aluno a partir da nota |
+| `desempenho.py` | Classificação de desempenho acadêmico (aprovado/recuperação/reprovado) |
+| `contador-letras.py` | Contagem de letras em uma palavra |
+| `palavra-invertida.py` | Inversão de uma palavra |
+| `vogais.py` | Contagem de vogais em uma frase |
+| `soma-despesas.py` | Soma de despesas digitadas até o usuário informar zero |
+| `lista-frutas.py` | Lista de compras com adição contínua de itens |
+| `dicionarios.py` | Cadastro de dados em dicionário com validação de entrada |
+
+## Conceitos praticados
+
+- Entrada e saída de dados (`input`, `print`, formatação com f-strings)
+- Conversão de tipos (`int`, `float`)
+- Operadores aritméticos e de módulo
+- Estruturas condicionais (`if`, `elif`, `else`)
+- Estruturas de repetição (`for`, `while`)
+- Manipulação de strings (concatenação, `.lower()`, iteração caractere a caractere, operador `in`)
+- Listas (`list`, `.append()`)
+- Dicionários (`dict`, acesso e atribuição por chave)
+- Tratamento de erros com `try`/`except`
+
 ## Destaques
 
 - Cada arquivo é um exercício ou exemplo autônomo.
